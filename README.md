@@ -1,7 +1,6 @@
 ## Welcome to Kyle's webpage
 
-
-I am a student in the University of Waterloo
+Testing...
 
 ```markdown
 
